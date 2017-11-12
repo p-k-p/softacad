@@ -18,7 +18,7 @@ namespace Notepad
             simple.Pages[0] = page1;
             simple.Pages[1] = page2;
             simple.Pages[2] = page3;
-
+            //Print this notepad
             simple.PrintNotepad();
 
             SecureNotepad secure = new SecureNotepad(3,"word");
