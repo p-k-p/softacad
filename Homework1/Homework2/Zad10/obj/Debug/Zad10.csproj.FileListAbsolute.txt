@@ -1,0 +1,7 @@
+C:\Users\Pavel\source\repos\Homework2\Zad10\bin\Debug\Zad10.exe.config
+C:\Users\Pavel\source\repos\Homework2\Zad10\bin\Debug\Zad10.exe
+C:\Users\Pavel\source\repos\Homework2\Zad10\bin\Debug\Zad10.pdb
+C:\Users\Pavel\source\repos\Homework2\Zad10\obj\Debug\Zad10.csprojResolveAssemblyReference.cache
+C:\Users\Pavel\source\repos\Homework2\Zad10\obj\Debug\Zad10.csproj.CoreCompileInputs.cache
+C:\Users\Pavel\source\repos\Homework2\Zad10\obj\Debug\Zad10.exe
+C:\Users\Pavel\source\repos\Homework2\Zad10\obj\Debug\Zad10.pdb

@@ -1,0 +1,9 @@
+C:\Users\Pavel\source\repos\Lesson_06\Lesson_06\bin\Debug\Lesson_06.exe.config
+C:\Users\Pavel\source\repos\Lesson_06\Lesson_06\bin\Debug\Lesson_06.exe
+C:\Users\Pavel\source\repos\Lesson_06\Lesson_06\bin\Debug\Lesson_06.pdb
+C:\Users\Pavel\source\repos\Lesson_06\Lesson_06\bin\Debug\PersonLibrary.dll
+C:\Users\Pavel\source\repos\Lesson_06\Lesson_06\bin\Debug\PersonLibrary.pdb
+C:\Users\Pavel\source\repos\Lesson_06\Lesson_06\obj\Debug\Lesson_06.csprojResolveAssemblyReference.cache
+C:\Users\Pavel\source\repos\Lesson_06\Lesson_06\obj\Debug\Lesson_06.csproj.CoreCompileInputs.cache
+C:\Users\Pavel\source\repos\Lesson_06\Lesson_06\obj\Debug\Lesson_06.exe
+C:\Users\Pavel\source\repos\Lesson_06\Lesson_06\obj\Debug\Lesson_06.pdb

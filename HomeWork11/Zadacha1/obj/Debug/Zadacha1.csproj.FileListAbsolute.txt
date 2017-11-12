@@ -1,0 +1,11 @@
+C:\Users\Pavel\source\repos\HomeWork11\Zadacha1\bin\Debug\Zadacha1.exe.config
+C:\Users\Pavel\source\repos\HomeWork11\Zadacha1\bin\Debug\Zadacha1.exe
+C:\Users\Pavel\source\repos\HomeWork11\Zadacha1\bin\Debug\Zadacha1.pdb
+C:\Users\Pavel\source\repos\HomeWork11\Zadacha1\bin\Debug\BankClassLibrary.dll
+C:\Users\Pavel\source\repos\HomeWork11\Zadacha1\bin\Debug\BankInterfaceLibrary.dll
+C:\Users\Pavel\source\repos\HomeWork11\Zadacha1\bin\Debug\BankClassLibrary.pdb
+C:\Users\Pavel\source\repos\HomeWork11\Zadacha1\bin\Debug\BankInterfaceLibrary.pdb
+C:\Users\Pavel\source\repos\HomeWork11\Zadacha1\obj\Debug\Zadacha1.csprojResolveAssemblyReference.cache
+C:\Users\Pavel\source\repos\HomeWork11\Zadacha1\obj\Debug\Zadacha1.csproj.CoreCompileInputs.cache
+C:\Users\Pavel\source\repos\HomeWork11\Zadacha1\obj\Debug\Zadacha1.exe
+C:\Users\Pavel\source\repos\HomeWork11\Zadacha1\obj\Debug\Zadacha1.pdb

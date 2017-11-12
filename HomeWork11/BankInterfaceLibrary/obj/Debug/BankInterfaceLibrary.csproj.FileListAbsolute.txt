@@ -1,0 +1,6 @@
+C:\Users\Pavel\source\repos\HomeWork11\BankInterfaceLibrary\bin\Debug\BankInterfaceLibrary.dll
+C:\Users\Pavel\source\repos\HomeWork11\BankInterfaceLibrary\bin\Debug\BankInterfaceLibrary.pdb
+C:\Users\Pavel\source\repos\HomeWork11\BankInterfaceLibrary\obj\Debug\BankInterfaceLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Pavel\source\repos\HomeWork11\BankInterfaceLibrary\obj\Debug\BankInterfaceLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Pavel\source\repos\HomeWork11\BankInterfaceLibrary\obj\Debug\BankInterfaceLibrary.dll
+C:\Users\Pavel\source\repos\HomeWork11\BankInterfaceLibrary\obj\Debug\BankInterfaceLibrary.pdb

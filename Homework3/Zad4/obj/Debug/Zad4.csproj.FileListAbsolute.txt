@@ -1,0 +1,7 @@
+C:\Users\Pavel\source\repos\Homework3\Zad4\bin\Debug\Zad4.exe.config
+C:\Users\Pavel\source\repos\Homework3\Zad4\bin\Debug\Zad4.exe
+C:\Users\Pavel\source\repos\Homework3\Zad4\bin\Debug\Zad4.pdb
+C:\Users\Pavel\source\repos\Homework3\Zad4\obj\Debug\Zad4.csprojResolveAssemblyReference.cache
+C:\Users\Pavel\source\repos\Homework3\Zad4\obj\Debug\Zad4.csproj.CoreCompileInputs.cache
+C:\Users\Pavel\source\repos\Homework3\Zad4\obj\Debug\Zad4.exe
+C:\Users\Pavel\source\repos\Homework3\Zad4\obj\Debug\Zad4.pdb
