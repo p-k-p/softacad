@@ -1,0 +1,7 @@
+C:\Users\Pavel\source\repos\softacad\HomeWork14\HomeWork14\bin\Debug\HomeWork14.exe.config
+C:\Users\Pavel\source\repos\softacad\HomeWork14\HomeWork14\bin\Debug\HomeWork14.exe
+C:\Users\Pavel\source\repos\softacad\HomeWork14\HomeWork14\bin\Debug\HomeWork14.pdb
+C:\Users\Pavel\source\repos\softacad\HomeWork14\HomeWork14\obj\Debug\HomeWork14.csprojResolveAssemblyReference.cache
+C:\Users\Pavel\source\repos\softacad\HomeWork14\HomeWork14\obj\Debug\HomeWork14.csproj.CoreCompileInputs.cache
+C:\Users\Pavel\source\repos\softacad\HomeWork14\HomeWork14\obj\Debug\HomeWork14.exe
+C:\Users\Pavel\source\repos\softacad\HomeWork14\HomeWork14\obj\Debug\HomeWork14.pdb
