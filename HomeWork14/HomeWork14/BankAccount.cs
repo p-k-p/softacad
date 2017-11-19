@@ -25,10 +25,16 @@ namespace HomeWork14
             if (amount <= this.Balance)
             {
                 this.Balance -= amount;
-                this.OnBankAccountDebit(this.Balance, amount, true);
+                if (this.OnBankAccountDebit != null)
+                {
+                    this.OnBankAccountDebit(this.Balance, amount, true);
+                }
             } else
             {
-                this.OnBankAccountDebit(this.Balance, amount, false);
+                if (this.OnBankAccountDebit != null)
+                {
+                    this.OnBankAccountDebit(this.Balance, amount, false);
+                }
             }
         }
 
